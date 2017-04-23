@@ -28,6 +28,7 @@ libvirtd__base_packages:
 libvirtd__base_packages_map:
   'wheezy':  [ 'libvirt-bin' ]
   'precise': [ 'libvirt-bin' ]
+  'xenial':  [ 'libvirt-bin' ]
   'trusty':  [ 'libvirt-bin' ]
 
                                                                    # ]]]
